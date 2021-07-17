@@ -1,0 +1,12 @@
+You will need an IDE to run the code.
+
+make sure the following dependencies are installed in IDE to run the code.
+streamlit
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+pydotplus
+graphviz
+mlxtend
